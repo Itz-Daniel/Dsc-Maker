@@ -1,0 +1,21 @@
+{
+    "token": "",
+    "prefix": ",",
+    "color": "#6861fe",
+    "pastebinapi": "sdsd",
+    "secret": "ss", 
+    "callback": "http://localhost/callback", 
+    "paypal": {
+        "clientId": "",
+        "clientSecret": ""
+    },
+    "servers": {
+        "234": ""
+    },
+    "passwords": {
+        "234": ""
+    },
+    "usernames": {
+        "234": ""
+    }
+}
